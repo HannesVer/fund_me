@@ -1,1 +1,1 @@
-Part of the Freedcodecamp solidity training programme
+Simple contract to receive funding
